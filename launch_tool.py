@@ -1,5 +1,4 @@
 import os
-import multiprocessing as mp
 
 def run_test(config_file, checkpoint_file,
              out_pickle_path, gpu_order=0):
