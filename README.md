@@ -2,7 +2,8 @@
 
 
 1. docker 파일 다운로드  
-https://drive.google.com/file/d/14aCQvGoXbFlSyP3Qybvs6UAF0PfIT4HK/view?usp=sharing
+  (훈련된 모델 weight 파일은 도커 파일에 들어 있음)
+    https://drive.google.com/file/d/14aCQvGoXbFlSyP3Qybvs6UAF0PfIT4HK/view?usp=sharing
 
 
 
