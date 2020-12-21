@@ -100,7 +100,7 @@ def main():
     anno = Dict(annotations=frame_results)
     with open(SAVE_PATH, 'w') as f: 
         json.dump(anno, f)
-    print('success  SAVE_PATH')
+    print(f'success  {SAVE_PATH}')
     print(f'fps({FPS})_topn({TOP_N})_th({CONF_TH:.2f})_minpx({MIN_SIZE})')
     
 if __name__ == '__main__':
